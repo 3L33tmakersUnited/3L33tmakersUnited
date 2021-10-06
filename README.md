@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3L33tmakersUnited
 - 👀 I’m interested in building stuff to prank friends and other stuff.
 - 🌱 I’m currently learning Javascript and more secret projects (Mwa hahaha)
-- 💞️ I’m looking to collaborate on stuff with my buds Vexify4 and Superdredre
+- 💞️ I’m looking to collaborate on stuff with my buds Vexify4 and Superdredre321
 - 📫 How to reach me: Send me something through github.
 
 <!---
