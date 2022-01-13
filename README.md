@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3L33tmakersUnited
+- 👋 Hi, I’m @3L33tmakersUnited, I speak part Japanese and English
 - 👀 I’m interested in building stuff to prank friends and other stuff.
 - 🌱 I’m currently learning Javascript and more secret projects (Mwa hahaha)
 - 💞️ I’m looking to collaborate on stuff with my buds Vexify4 and Superdredre321
