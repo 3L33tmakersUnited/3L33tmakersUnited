@@ -12,7 +12,7 @@
 <br>
  💻 I will try to release at least one new thing per week. Correction: Add stuff to my archive
 <br>
- 🖥 I'm making a site visit it [here](https://3l33tmakersunited.github.io) It kinda sucks BTW
+ 🖥 I'm making a site visit it https://3l33tmakersunited.github.io It kinda sucks BTW
 <br>
   . . . Puzzle stuff?
 <br>
